@@ -1,0 +1,4 @@
+* text=auto
+
+# Bash-скрипты всегда с LF, иначе в Linux они не запустятся
+*.sh text eol=lf
